@@ -1,0 +1,1 @@
+import{P as e,j as t}from"./index-BEaVwfzs.js";const o=({className:s="",children:a})=>t.jsx("div",{className:`-mt-50 mb-auto flex w-full flex-col items-center gap-4 pt-4 md:gap-6 ${s}`,children:a});o.propTypes={className:e.string,children:e.node};export{o as P};

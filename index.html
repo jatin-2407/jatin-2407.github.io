@@ -3,16 +3,28 @@
 
 <head>
   <meta charset="UTF-8" />
-  <link rel="icon" type="image/png" href="https://thejatinparmar.com/logo.png" />
+  <link rel="icon" type="image/png" href="https://jatin-2407.github.io/logo.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Jatin Parmar | Fullstack web developer |React|javascript|frontend|nodejs|php|laravel|mongodb|mysql|graphql
   </title>
-  <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Anton+SC&display=swap" rel="stylesheet">
-  <script type="module" crossorigin src="https://thejatinparmar.com/assets/index-Bp1riy2X.js"></script>
-  <link rel="stylesheet" crossorigin href="https://thejatinparmar.com/assets/index-CMYkJV6v.css">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
+  <script>
+    (function () {
+      var stored = localStorage.getItem("theme");
+      var isDark = stored ? stored === "dark" : true;
+      document.documentElement.classList.toggle("dark", isDark);
+    })();
+    (function () {
+      var lang = localStorage.getItem("site-language") || "en";
+      document.documentElement.lang = lang;
+      document.documentElement.dir = lang === "ar" ? "rtl" : "ltr";
+    })();
+  </script>
+  <script type="module" crossorigin src="/assets/index-BEaVwfzs.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-BhWJLXMy.css">
 </head>
 
 <body>

@@ -1,0 +1,97 @@
+[
+  {
+    "project": "Revenue Growth Intelligence",
+    "id": "revenue-growth-intelligence",
+    "industry": [
+      "Finance",
+      "Data Research"
+    ],
+    "clientLocations": [
+      "USA",
+      "Brazil"
+    ],
+    "role": "Senior Frontend Developer",
+    "scopeOfWork": [
+      "Design new product features.",
+      "Redesign the existing system.",
+      "Migrate the codebase from MUI v3 to MUI v5.",
+      "Fix bugs in the existing system."
+    ],
+    "highlights": [
+      "Participated in the development of analytical dashboards.",
+      "Integrated GraphQL APIs using Apollo Client.",
+      "Developed reusable UI components.",
+      "Fixed a critical bug that caused multiple API calls.",
+      "Participated in development audits and DevQA activities."
+    ],
+    "teamSize":"20-25",
+    "Duration": "Dec 2024 - March 2026"
+  },
+  {
+    "project": "Garage Management System",
+    "id": "garage-management-system",
+    "industry": [
+      "Automotive"
+    ],
+    "clientLocations": [
+      "France",
+      "Europe"
+    ],
+    "role": "Frontend Lead",
+    "scopeOfWork": [
+      "Migrate a Win32 application to a React-based Single Page Application (SPA).",
+      "Migrate stored procedures to Entity Framework.",
+      "Ensure data security and application accessibility.",
+      "Document technical decisions."
+    ],
+    "highlights": [
+      "Designed the frontend architecture from scratch.",
+      "Created the design system.",
+      "Defined the development roadmap.",
+      "Provided project estimations and delivery timelines.",
+      "Participated in QA cycles to ensure smooth deployments.",
+      "Participated in the development of multiple product workflows.",
+      "Contributed to API development and API contract design.",
+      "Conducted code reviews and provided technical feedback."
+    ],
+    "teamSize":"11-20",
+    "Duration": "Aug 2023 - Dec 2024"
+  },
+  {
+    "project": "E-commerce Application",
+    "id": "ecommerce-application",
+    "industry": [
+      "E-commerce",
+      "Manufacturing"
+    ],
+    "clientLocations": [
+      "USA"
+    ],
+    "role": [
+      "Frontend Lead",
+      "Team Lead"
+    ],
+    "scopeOfWork": [
+      "Develop the storefront for a Shopify e-commerce application using React.",
+      "Integrate Shopify APIs into the frontend.",
+      "Migrate and develop third-party Shopify applications.",
+      "Ensure compliance with accessibility standards.",
+      "Design responsive web applications.",
+      "Implement single-click deployments for launching new regions."
+    ],
+    "highlights": [
+      "Defined the frontend architecture for the project.",
+      "Designed build optimization techniques with region-specific code splitting.",
+      "Implemented CI/CD pipelines.",
+      "Defined the development roadmap.",
+      "Collaborated with clients to align business requirements with technical solutions.",
+      "Created the frontend design system.",
+      "Migrated multiple third-party Shopify applications to React, including Cross Sell & Upsell, eTail, and Trustpilot.",
+      "Implemented a single-click deployment workflow for launching new regions using the AWS SDK.",
+      "Conducted code reviews and provided technical feedback.",
+      "Ensured the successful delivery of each MVP according to the roadmap while maintaining high quality standards."
+    ],
+    "teamSize":"15-25",
+    "Duration": "March 2022 - May 2023"
+  }
+]

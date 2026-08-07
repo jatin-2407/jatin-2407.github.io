@@ -1,0 +1,65 @@
+{
+  "frontend": [
+    { "label": "ReactJS", "logo": "react" },
+    { "label": "TypeScript", "logo": "typescript" },
+    { "label": "JavaScript (ES6+)", "logo": "javascript" },
+    { "label": "HTML5", "logo": "html5" },
+    { "label": "CSS3", "logo": "css3" },
+    { "label": "Redux", "logo": "redux" },
+    { "label": "Zustand", "logo": "zustand" },
+    { "label": "Material UI (MUI)", "logo": "mui" },
+    { "label": "Tailwind CSS", "logo": "tailwindcss" },
+    { "label": "Bootstrap", "logo": "bootstrap" },
+    { "label": "Single-SPA (Micro Frontend Architecture)", "logo": "single-spa" },
+    { "label": "amCharts", "logo": "amcharts" },
+    { "label": "Apollo GraphQL", "logo": "apollo" },
+    { "label": "React InstantSearch", "logo": "algolia" },
+    { "label": "Lighthouse", "logo": "lighthouse" },
+    { "label": "Web Vitals", "logo": "web-vitals" },
+    { "label": "React Profiler", "logo": "react" },
+    { "label": "Storybook", "logo": "storybook" },
+    { "label": "TanStack Query (React Query)", "logo": "react-query" }
+  ],
+  "backend": [
+    { "label": "Node.js", "logo": "nodejs" },
+    { "label": "PHP", "logo": "php" },
+    { "label": "REST APIs", "logo": "rest" },
+    { "label": "GraphQL", "logo": "graphql" }
+  ],
+  "databases": [
+    { "label": "MongoDB", "logo": "mongodb" },
+    { "label": "MySQL", "logo": "mysql" },
+    { "label": "PostgreSQL", "logo": "postgresql" },
+    { "label": "TypeSense", "logo": "typesense" },
+    { "label": "Prisma ORM", "logo": "prisma" }
+  ],
+  "testing": [
+    { "label": "Jest", "logo": "jest" },
+    { "label": "React Testing Library", "logo": "testing-library" }
+  ],
+  "devops": [
+    { "label": "Git", "logo": "git" },
+    { "label": "GitHub", "logo": "github" },
+    { "label": "GitLab", "logo": "gitlab" },
+    { "label": "GitHub Actions", "logo": "github-actions" },
+    { "label": "GitHub Workflows", "logo": "github-actions" },
+    { "label": "Docker", "logo": "docker" }
+  ],
+  "projectManagement": [
+    { "label": "Asana", "logo": "asana" },
+    { "label": "Basecamp", "logo": "basecamp" },
+    { "label": "Jira", "logo": "jira" },
+    { "label": "Trello", "logo": "trello" }
+  ],
+  "architectureAndConcepts": [
+    { "label": "Single Page Applications (SPA)", "logo": "spa" },
+    { "label": "Progressive Web Apps (PWA)", "logo": "pwa" },
+    { "label": "Micro Frontend Architecture", "logo": "micro-frontend" },
+    { "label": "React Design Patterns", "logo": "react" },
+    { "label": "API Integration", "logo": "api" },
+    { "label": "SOLID Principles", "logo": "solid" },
+    { "label": "Design Patterns", "logo": "design-patterns" },
+    { "label": "Object-Oriented Programming", "logo": "oop" },
+    { "label": "Web Content Accessibility Guidelines (WCAG)", "logo": "wcag" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "AI Tools": {
+    "LLM and Chatbots": [
+      { "name": "ChatGPT", "logo": "/images/logos/chatgpt.svg" },
+      { "name": "Claude", "logo": "/images/logos/claude.svg" },
+      { "name": "DeepSeek", "logo": "/images/logos/deepseek.svg" },
+      { "name": "Mistral AI", "logo": "/images/logos/mistral-ai.svg" },
+      { "name": "Gemini", "logo": "/images/logos/gemini.svg" }
+    ],
+    "Coding Agents": [
+      { "name": "Claude Code", "logo": "/images/logos/claude-code.svg" },
+      { "name": "Codex", "logo": "/images/logos/codex.svg" },
+      { "name": "GitHub Copilot", "logo": "/images/logos/github-copilot.svg" }
+    ]
+  },
+  "AI Concepts": [
+    "Prompt Engineering",
+    "Model Optimization",
+    "Skills, Agents & Workflows",
+    "MCP Server",
+    "AI SDK by Vercel",
+    "Tool Integration",
+    "Model Security",
+    "RAG Integration",
+    "Ollama",
+    "Prompt Evaluation and Automated Testing"
+  ]
+}

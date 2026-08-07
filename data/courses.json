@@ -1,0 +1,155 @@
+{
+    "certificates": [
+        {
+            "title": "Claude Certified Developer-Foundations",
+            "issuedBy": "Anthropic",
+            "logo": "/images/claude-certified-developer-foundations.png"
+        }
+    ],
+    "courses": [
+        {
+            "course_name": "Claude Certified Developer – Foundations Certification",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/claude-logo.svg"
+        },
+        {
+            "course_name": "Production Engineering, Evals & Security",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/anthropic-logo.svg"
+        },
+        {
+            "course_name": "Production-Grade Prompting, Agents & Tool Use",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/anthropic-logo.svg"
+        },
+        {
+            "course_name": "Model Context Protocol: Advanced Topics",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/mcp-logo.png"
+        },
+        {
+            "course_name": "Claude Code, MCP & Integration",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/claude-logo.svg"
+        },
+        {
+            "course_name": "Building with the Claude API",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/claude-logo.svg"
+        },
+        {
+            "course_name": "Introduction to Agent Skills",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/anthropic-logo.svg"
+        },
+        {
+            "course_name": "Introduction to Subagents",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/anthropic-logo.svg"
+        },
+        {
+            "course_name": "Claude Code in Action",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/claude-logo.svg"
+        },
+        {
+            "course_name": "Introduction to Model Context Protocol",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/mcp-logo.png"
+        },
+        {
+            "course_name": "AI Fluency: Framework & Foundations",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/anthropic-logo.svg"
+        },
+        {
+            "course_name": "Claude 101",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/claude-logo.svg"
+        },
+        {
+            "course_name": "Introduction to Claude Cowork",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/claude-logo.svg"
+        },
+        {
+            "course_name": "Accelerators & IP Contribution",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/anthropic-logo.svg"
+        },
+        {
+            "course_name": "MSO Foundations",
+            "platform": "Skilljar.com",
+            "course_provider": "Anthropic",
+            "logo": "/images/anthropic-logo.svg"
+        },
+        {
+            "course_name": "Claude Code for Professional Developers",
+            "platform": "CodeWithMosh.com",
+            "course_provider": "Mosh Hamedani",
+            "logo": "/images/claude-logo.svg"
+        },
+        {
+            "course_name": "Build AI-Powered Apps",
+            "platform": "CodeWithMosh.com",
+            "course_provider": "Mosh Hamedani",
+            "logo": "/images/ollama-logo.svg"
+        },
+        {
+            "course_name": "The Ultimate Git Course",
+            "platform": "CodeWithMosh.com",
+            "course_provider": "Mosh Hamedani",
+            "logo": "/images/git-logo.png"
+        },
+        {
+            "course_name": "The Ultimate TypeScript Course",
+            "platform": "CodeWithMosh.com",
+            "course_provider": "Mosh Hamedani",
+            "logo": "/images/typescript-logo.png"
+        },
+        {
+            "course_name": "The Ultimate Docker Course",
+            "platform": "CodeWithMosh.com",
+            "course_provider": "Mosh Hamedani",
+            "logo": "/images/docker-logo.png"
+        },
+        {
+            "course_name": "The Complete Node.js Course",
+            "platform": "CodeWithMosh.com",
+            "course_provider": "Mosh Hamedani",
+            "logo": "/images/nodejs-logo.png"
+        },
+        {
+            "course_name": "C# Fundamentals",
+            "platform": "CodeWithMosh.com",
+            "course_provider": "Mosh Hamedani",
+            "logo": "/images/csharp-logo.png"
+        },
+        {
+            "course_name": "Design Patterns",
+            "platform": "CodeWithMosh.com",
+            "course_provider": "Mosh Hamedani",
+            "logo": "/images/codewithmosh-logo.png"
+        },
+        {
+            "course_name": "Data Structures",
+            "platform": "CodeWithMosh.com",
+            "course_provider": "Mosh Hamedani",
+            "logo": "/images/codewithmosh-logo.png"
+        }
+    ]
+}
